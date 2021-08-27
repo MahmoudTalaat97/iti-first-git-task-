@@ -2,7 +2,7 @@
 
 ## Commands Used:
 
-### Second Person (Mahmoud Mustafa Metawlly
+### Second Person (Mahmoud Mustafa Metawlly)
   1. git clone https://github.com/MahmoudTalaat97/iti-first-git-task-.git
   2. cd .\iti-first-git-task-\
   3. git commit -am 'First Edit From Person 2'
