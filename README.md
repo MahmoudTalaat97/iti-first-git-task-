@@ -13,7 +13,7 @@
 
 
 ## Log Output:
-`commit f6bf51dc737495cabdaa41cec6b18060987afa82 (HEAD -> master, origin/master, origin/HEAD)
+commit f6bf51dc737495cabdaa41cec6b18060987afa82 (HEAD -> master, origin/master, origin/HEAD)
 Author: mamume <mmustafametwally@gmail.com>
 Date:   Fri Aug 27 18:26:24 2021 +0200
 
@@ -36,4 +36,3 @@ Author: Mahmoud Talaat <mahmoudtalaat2010@gmail.com>
 Date:   Fri Aug 27 17:23:21 2021 +0200
 
     first commit
-`
