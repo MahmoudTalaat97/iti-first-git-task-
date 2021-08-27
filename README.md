@@ -2,7 +2,16 @@
 
 ## Commands Used:
 
-### Second Person (Mahmoud Mustafa Metawlly)
+### Mahmoud Talaat (Person 1):
+  1. git init
+  2. git commit -n 'first commit'
+  3. git remote add origin https://github.com/MahmoudTalaat97/iti-first-git-task-.git
+  4. git push  origin main
+  6. git pull
+  7. git commit -am 'First edit 1st person'
+  8. git push
+
+### Mahmoud Mustafa Metawlly ( person 2):
   1. git clone https://github.com/MahmoudTalaat97/iti-first-git-task-.git
   2. cd .\iti-first-git-task-\
   3. git commit -am 'First Edit From Person 2'
